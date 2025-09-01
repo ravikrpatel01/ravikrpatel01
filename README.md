@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Patel</h1>
-<h3 align="center">A passionate Java developer from India. 🇮🇳</h3>
+<h3 align="center">A passionate Java developer from India.</h3>
 
-- 🌱 I’m currently learning **React and Spring Boot**
+- 🌱 I’m currently learning **React and Spring Boot.**
 
 - 👨‍💻 All of my projects are available at [https://rp-portfolio-1.vercel.app/](https://rp-portfolio-1.vercel.app/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravikrpatel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikrpatel01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravi-kumar-patel-01a9a8247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikrpatel01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ravikrpatel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravikrpatel01" height="30" width="40" /></a>
 </p>
 
