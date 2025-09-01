@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Patel</h1>
-<h3 align="center">A passionate Java developer from India. 👨‍💻</h3>
+<h3 align="center">A passionate Java Developer from India. 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikrpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="ravikrpatel01" /> </p>
 
 - 🌱 I’m currently learning **React.js and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://rp-portfolio-1.vercel.app/](https://rp-portfolio-1.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://rp-portfolio-1.vercel.app/).
 
 - 📫 How to reach me **ravikumarpatel2001@gmail.com**
 
